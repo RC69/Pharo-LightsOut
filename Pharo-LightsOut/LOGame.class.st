@@ -7,7 +7,7 @@ Class {
 	#instVars : [
 		'cells'
 	],
-	#category : #'Pharo-LightsOut'
+	#category : #'Pharo-LightsOut-Base'
 }
 
 { #category : #initialization }

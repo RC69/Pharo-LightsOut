@@ -8,7 +8,7 @@ Class {
 	#instVars : [
 		'mouseAction'
 	],
-	#category : #'Pharo-LightsOut'
+	#category : #'Pharo-LightsOut-Base'
 }
 
 { #category : #initialization }
